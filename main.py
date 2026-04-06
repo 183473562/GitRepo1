@@ -15,3 +15,4 @@ if __name__ == '__main__':
 
 # 访问 https://www.jetbrains.com/help/pycharm/ 这是一个百倍股票策略！！！！
 # 这是一个百倍股票策略！！！！
+# 这是一个百倍的全天候策略！！！
